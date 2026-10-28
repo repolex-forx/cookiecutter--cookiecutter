@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cookiecutter/cookiecutter/commit/c88fbe921c97c58b65f1883ba90a0ab53cc91b34",
       "git:hexsha": "c88fbe921c97c58b65f1883ba90a0ab53cc91b34",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:39:25.742503+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cookiecutter/cookiecutter/commit/76f9450aad9b3a0578389d92701533052a01cadd",
