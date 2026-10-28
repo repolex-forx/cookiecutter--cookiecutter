@@ -1,0 +1,11 @@
+{
+  "org": "cookiecutter",
+  "repo": "cookiecutter",
+  "versions": [
+    {
+      "commit": "c88fbe921c97c58b65f1883ba90a0ab53cc91b34",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:39:25.743152+00:00"
+    }
+  ]
+}
